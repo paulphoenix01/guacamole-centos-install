@@ -1,6 +1,8 @@
 # guacamole-centos-install
 
+Clone and execute script
 ```
+https://github.com/paulphoenix01/guacamole-centos-install
 chmod +x guacamole-install-script.sh
 ./guacamole-install-script.sh
 ```
