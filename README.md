@@ -2,7 +2,7 @@
 
 Clone and execute script
 ```
-git clone https://raw.githubusercontent.com/paulphoenix01/guacamole-centos-install/master/guacamole-install-script.sh
+wget https://raw.githubusercontent.com/paulphoenix01/guacamole-centos-install/master/guacamole-install-script.sh
 chmod +x guacamole-install-script.sh
 ./guacamole-install-script.sh
 ```
